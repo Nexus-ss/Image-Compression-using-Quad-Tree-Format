@@ -1,4 +1,5 @@
 # Image-Compression-using-Quad-Tree-Format
+
 ۰ Compression of data has been around ever since long distance communication started  becoming prevalent. It was initially to minimize costs of sending a large letter or a very long  telegram message. 
 
 ۰ When electronic communications became prevalent, bandwidth was a constraint and hence  compression of data and information became paramount for long dis25tance instantaneous  flow of information which is the backbone of our current global society. 
